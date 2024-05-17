@@ -14,4 +14,5 @@ def final_position(turns):
 
 # Calculate the final position after 5 turns
 final_x, final_y = final_position(5)
-print("Final Position:", (final_x, final_y)) 
+print("Final Position:", (final_x, final_y))
+enter into the home page ....
